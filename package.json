@@ -1,0 +1,28 @@
+{
+  "name": "amazon-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rssawhney/amazon-api.git"
+  },
+  "author": "Ramanpreet Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rssawhney/amazon-api/issues"
+  },
+  "homepage": "https://github.com/rssawhney/amazon-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "jquery": "^2.2.4",
+    "request": "^2.72.0"
+  }
+}
