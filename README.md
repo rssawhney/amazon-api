@@ -1,5 +1,5 @@
 # Amazon.in-API
-Unofficial amazon.in api written in nodejs
+Unofficial [amazon.in](www.amazon.in) api written in nodejs
 
 # Usage
 Make a GET request
